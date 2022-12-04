@@ -6,7 +6,7 @@ It is the most populous African country and 7th in the world with over 200m peop
 
 Over 500 languages are spoken including Hausa, Igbo, Yoruba, & English.
 
-There are more than 250 tribal groups with diverse cultures.
+There are more than 250 tribal groups with diverse cultures; lots of punctuation
 
 With a GDP of 450 billion dollars, Nigeria has the biggest economy in Africa and 26th in the world. 
 
@@ -16,4 +16,4 @@ Nigeria is home to Aliko Dangote, the richest man in Africa, with a fortune of $
 
 Its film industry, Nollywood, is bigger than Hollywood and second only to Bollywood in the number of movies produced, churning out 200 films a week. 
 
-Nigerian artists have shaped Africa's music scene with Burna Boy, Wizkid, and Davido dominating music charts.
+Nigerian artists hav xe shaped Africa's music scene with Burna Boy, Wizkid, and Davido dominating music charts.
